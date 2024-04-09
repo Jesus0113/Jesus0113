@@ -1,6 +1,13 @@
+<style>
+    h1 {
+      background: #000 ;
+      color: #ffd700;
+    }
+  </style>
+
 ### Hi there 👋
 
-<h1>Welcome to my Github... </h1>
+<h1 style>Welcome to my Github profile... </h1>
 
 
 
