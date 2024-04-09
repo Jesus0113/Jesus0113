@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 style="font-family: Arial, sans-serif; background-color: #000; color: #ffd700; ">Welcome to my Github profile... </h1>
+<h1 style="background-color: #000;">Welcome to my Github profile... </h1>
 
 
 
