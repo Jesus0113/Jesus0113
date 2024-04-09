@@ -2,6 +2,26 @@
 
 <h1 style="background-color:black; color:#ffd700">Welcome to my Github profile... </h1>
 
+```
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   technologies: {
+      frontEnd: {
+         js: ["React""],
+         css: ["MUI", "Tailwind Css", "Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         js: ["Node", "Express"],
+      },
+      databases: ["MongoDB", "mySQL", "SQLServer"],
+      mobile: ["Android", "IOS"]
+   },
+   currentOccupation: ["last year student, open for job opportunities"],
+   challenge: "I'm working in a powerfull app to Restaurants",
+};
+```
+
 
 
 - 🔭 I’m currently working on  ...
