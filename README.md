@@ -1,4 +1,4 @@
-<h1 align="center" background="black" color="#ffd700">Hi 👋, I'm Jesús</h1>
+<h1 align="center" background-color="black" color="#ffd700">Hi 👋, I'm Jesús</h1>
 <h2 align="center">A passionate full-stack developer from Argentina</h2>
 <h3 align="center" >Welcome to my Github profile... </h3>
 
@@ -54,9 +54,7 @@ const aboutMe = {
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesus0113&label=Profile%20views&color=0e75b6&style=flat" alt="jesus0113" /> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
