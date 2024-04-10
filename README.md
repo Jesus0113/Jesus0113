@@ -5,19 +5,19 @@
 ```
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React""],
-         css: ["MUI", "Tailwind Css", "Bootstrap", "Material Design"]
+         js: ["React"],
+         css: ["MUI", "Tailwind Css", "Bootstrap", "SASS"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "PHP"],
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
       mobile: ["Android", "IOS"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["Open for job opportunities"],
    challenge: "I'm working in a powerfull app to Restaurants",
 };
 ```
