@@ -1,7 +1,7 @@
 <h1 align="center"  style="background-color:black; color:#ffd700;">Hi 👋, I'm Jesús</h1>
 <h2 align="center">A passionate full-stack developer from Argentina</h2>
 <h3 align="center" >Welcome to my Github profile... </h3>
-![img](https://images.pexels.com/photos/14011035/pexels-photo-14011035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 "img")
+![](https://images.pexels.com/photos/14011035/pexels-photo-14011035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ```
 const aboutMe = {
