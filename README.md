@@ -1,7 +1,7 @@
 <h1 align="center"  style="background-color:black; color:#ffd700;">Hi 👋, I'm Jesús</h1>
 <h2 align="center">A passionate full-stack developer from Argentina</h2>
 <h3 align="center" >Welcome to my Github profile... </h3>
-![](https://w7.pngwing.com/pngs/160/708/png-transparent-javascript-logo-javascript-logo-language-algorithm-app-3d-icon-thumbnail.png)
+<img src="https://w7.pngwing.com/pngs/160/708/png-transparent-javascript-logo-javascript-logo-language-algorithm-app-3d-icon-thumbnail.png" >
 
 ```
 const aboutMe = {
