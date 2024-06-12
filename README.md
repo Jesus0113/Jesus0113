@@ -3,7 +3,6 @@
 <h3 align="center" >Welcome to my Github profile... </h3>
 <img src="https://images.pexels.com/photos/14011035/pexels-photo-14011035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" style="heigth:100px;"  >
 
-##Javascript　
 ```javascript
 const greeting = (name) => {
 
@@ -31,8 +30,8 @@ const greeting = (name) => {
 	};
 
 const your = greeting({
-yourName: 'Your name',
-gitHubStar: true
+	yourName: 'Your name',
+	gitHubStar: true
 })
 
 const contactMe = your ? alert(`Thanks, ${your}`) : '☹️';
