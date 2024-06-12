@@ -3,24 +3,42 @@
 <h3 align="center" >Welcome to my Github profile... </h3>
 <img src="https://images.pexels.com/photos/14011035/pexels-photo-14011035.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" style="heigth:100px;"  >
 
-```
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, Express, HTML, CSS],
-   technologies: {
-      frontEnd: {
-         js: ["React JS", "Next JS"],
-         css: ["MUI", "Tailwind Css", "Bootstrap", "SASS"]
-      },
-      backEnd: {
-         js: ["Node", "Express"],
-      },
-      databases: ["MongoDB", "mySQL", "PostgreSQL"],
-      mobile: ["Android", "IOS"]
-   },
-   currentOccupation: ["Open for job opportunities"],
-   challenge: "I'm currently learning TypeScript and Testing QA",
-};
+##Javascript　
+```javascript
+const greeting = (name) => {
+
+	const {yourName} = name;
+	if(yourName === 'looking at this screen' ){
+
+		const aboutMe = {
+			pronouns: "he" && "him",
+			code: ["Javascript", "Typescript", "Express", "HTML", "CSS"],
+			technologies: {
+				frontEnd: {
+					js: ["React JS", "Next JS"],
+					css: ["MUI", "Tailwind Css", "Bootstrap", "SASS"]
+				},
+				backEnd: {
+					js: ["Node", "Express"],
+				},
+				databases: ["MongoDB", "mySQL", "PostgreSQL"],
+				mobile: ["Android", "IOS"]
+			},
+			currentOccupation: ["Open for job opportunities"],
+			challenge: "I'm currently learning TypeScript and Testing QA",
+		}
+		 return yourName
+	};
+
+const your = greeting({
+yourName: 'Your name',
+gitHubStar: true
+})
+
+const contactMe = your ? alert(`Thanks, ${your}`) : '☹️';
+
+//scroll down
+
 ```
 
 ### - Languages and Tools...
